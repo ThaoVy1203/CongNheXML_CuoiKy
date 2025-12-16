@@ -1,153 +1,153 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\",
+  "WorkspaceRootPath": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\forms\\frommain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\forms\\frommain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\data\\thucung.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\data\\thucung.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|d:\\vy\\xml\\cuoiky_congnghexml\\congnghexml_cuoiky\\thucung\\databasehelper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\databasehelper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\databasehelper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\forms\\formaddedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|d:\\vy\\xml\\bcck_xml\\quanlythucung\\thucung\\forms\\frommain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\forms\\frommain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\data\\thucung.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\data\\thucung.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\forms\\formaddedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\forms\\formaddedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\forms\\formaddeditsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\forms\\formaddeditsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\forms\\formaddeditsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\forms\\formaddeditsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\forms\\formaddeditsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\forms\\formaddeditsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\forms\\formaddedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\forms\\formaddedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\forms\\formaddedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\forms\\formxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\forms\\formxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\forms\\formxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\forms\\formxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\forms\\formxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\forms\\formxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\forms\\frommain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\forms\\frommain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\forms\\frommain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\chuyensangxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\chuyensangxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\chuyensangxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\xemhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\xemhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\xemhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\forms\\frommain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\forms\\frommain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\forms\\frommain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\baocaothucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\baocaothucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\baocaothucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\xemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\xemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\xemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\xemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\xemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\xemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\xemxml.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\xemxml.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\xemxml.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\baocaodoanhthu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\baocaodoanhthu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\baocaodoanhthu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\baocaothucung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\baocaothucung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\baocaothucung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\xemxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\xemxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\xemxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\baocaothucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\baocaothucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\baocaothucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\forms\\formaddedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\forms\\formaddedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\forms\\formaddedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\forms\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\forms\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\forms\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\forms\\formxml.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\forms\\formxml.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\forms\\formxml.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\models\\vaitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\models\\vaitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\models\\vaitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\models\\thucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\models\\thucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\models\\thucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\models\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\models\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\models\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\thucung\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\thucung\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97B28504-6230-4EF8-9497-D472CBB0611E}|ThuCung\\ThuCung.csproj|solutionrelative:thucung\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\bin\\Debug\\data\\ThuCung.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\bin\\Debug\\data\\ThuCung.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ThuCung\\bin\\Debug\\data\\ThuCung.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -158,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -216,7 +216,7 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "FormAddEditSQL.cs [Design]",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormAddEditSQL.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormAddEditSQL.cs",
               "RelativeDocumentMoniker": "ThuCung\\Forms\\FormAddEditSQL.cs",
               "ToolTip": "D:\\Vy\\XML\\CuoiKyXML (4)\\CuoiKyXML\\CuoiKyXML\\CuoiKyXML\\ThuCung\\ThuCung\\ThuCung\\Forms\\FormAddEditSQL.cs [Design]",
               "RelativeToolTip": "..\\..\\CuoiKyXML (4)\\CuoiKyXML\\CuoiKyXML\\CuoiKyXML\\ThuCung\\ThuCung\\ThuCung\\Forms\\FormAddEditSQL.cs [Design]",
@@ -225,24 +225,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "DatabaseHelper.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\DatabaseHelper\\DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\DatabaseHelper\\DatabaseHelper.cs",
               "RelativeDocumentMoniker": "ThuCung\\DatabaseHelper\\DatabaseHelper.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\DatabaseHelper\\DatabaseHelper.cs",
-              "RelativeToolTip": "ThuCung\\DatabaseHelper\\DatabaseHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACCAAAAAAAAAA==",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\DatabaseHelper\\DatabaseHelper.cs*",
+              "RelativeToolTip": "ThuCung\\DatabaseHelper\\DatabaseHelper.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T17:49:05.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FromMain.cs [Design]",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FromMain.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FromMain.cs",
               "RelativeDocumentMoniker": "ThuCung\\Forms\\FromMain.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FromMain.cs [Design]",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FromMain.cs [Design]",
               "RelativeToolTip": "ThuCung\\Forms\\FromMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T15:46:22.552Z",
@@ -250,24 +250,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ThuCung.xml",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\data\\ThuCung.xml",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\data\\ThuCung.xml",
               "RelativeDocumentMoniker": "ThuCung\\data\\ThuCung.xml",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\data\\ThuCung.xml",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\data\\ThuCung.xml",
               "RelativeToolTip": "ThuCung\\data\\ThuCung.xml",
               "ViewState": "AgIAAEcDAAAAAAAAAAArwJcDAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-12-04T18:09:08.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T18:09:08.351Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "FormAddEdit.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormAddEdit.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormAddEdit.cs",
               "RelativeDocumentMoniker": "ThuCung\\Forms\\FormAddEdit.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormAddEdit.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormAddEdit.cs",
               "RelativeToolTip": "ThuCung\\Forms\\FormAddEdit.cs",
               "ViewState": "AgIAACwBAAAAAAAAAAAwwDUBAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -277,9 +276,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "FormAddEditSQL.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormAddEditSQL.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormAddEditSQL.cs",
               "RelativeDocumentMoniker": "ThuCung\\Forms\\FormAddEditSQL.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormAddEditSQL.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormAddEditSQL.cs",
               "RelativeToolTip": "ThuCung\\Forms\\FormAddEditSQL.cs",
               "ViewState": "AgIAALwAAAAAAAAAAAAwwAsBAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -289,7 +288,7 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "FormAddEdit.cs [Design]",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormAddEdit.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormAddEdit.cs",
               "RelativeDocumentMoniker": "ThuCung\\Forms\\FormAddEdit.cs",
               "ToolTip": "D:\\Vy\\XML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormAddEdit.cs [Design]",
               "RelativeToolTip": "..\\..\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormAddEdit.cs [Design]",
@@ -300,9 +299,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "FormXML.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormXML.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormXML.cs",
               "RelativeDocumentMoniker": "ThuCung\\Forms\\FormXML.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormXML.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormXML.cs",
               "RelativeToolTip": "ThuCung\\Forms\\FormXML.cs",
               "ViewState": "AgIAAMYAAAAAAAAAAAAwwNoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -312,7 +311,7 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "FormXML.cs [Design]",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormXML.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormXML.cs",
               "RelativeDocumentMoniker": "ThuCung\\Forms\\FormXML.cs",
               "ToolTip": "D:\\Vy\\XML\\CuoiKyXML (4)\\CuoiKyXML\\CuoiKyXML\\CuoiKyXML\\ThuCung\\ThuCung\\ThuCung\\Forms\\FormXML.cs [Design]",
               "RelativeToolTip": "..\\..\\CuoiKyXML (4)\\CuoiKyXML\\CuoiKyXML\\CuoiKyXML\\ThuCung\\ThuCung\\ThuCung\\Forms\\FormXML.cs [Design]",
@@ -323,9 +322,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "FormLogin.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormLogin.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormLogin.cs",
               "RelativeDocumentMoniker": "ThuCung\\Forms\\FormLogin.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormLogin.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormLogin.cs",
               "RelativeToolTip": "ThuCung\\Forms\\FormLogin.cs",
               "ViewState": "AgIAAHgAAAAAAAAAAAAswIQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -335,7 +334,7 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "FormLogin.cs [Design]",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormLogin.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormLogin.cs",
               "RelativeDocumentMoniker": "ThuCung\\Forms\\FormLogin.cs",
               "ToolTip": "D:\\Vy\\XML\\CuoiKyXML (4)\\CuoiKyXML\\CuoiKyXML\\CuoiKyXML\\ThuCung\\ThuCung\\ThuCung\\Forms\\FormLogin.cs [Design]",
               "RelativeToolTip": "..\\..\\CuoiKyXML (4)\\CuoiKyXML\\CuoiKyXML\\CuoiKyXML\\ThuCung\\ThuCung\\ThuCung\\Forms\\FormLogin.cs [Design]",
@@ -346,20 +345,19 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "FromMain.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FromMain.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FromMain.cs",
               "RelativeDocumentMoniker": "ThuCung\\Forms\\FromMain.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FromMain.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FromMain.cs",
               "RelativeToolTip": "ThuCung\\Forms\\FromMain.cs",
               "ViewState": "AgIAANgDAAAAAAAAAAAowOcDAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T22:48:49.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T22:48:49.358Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "BaoCaoDoanhThu.cs [Design]",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\BaoCaoDoanhThu.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\BaoCaoDoanhThu.cs",
               "RelativeDocumentMoniker": "ThuCung\\BaoCaoDoanhThu.cs",
               "ToolTip": "D:\\Vy\\XML\\CuoiKyXML (4)\\CuoiKyXML\\CuoiKyXML\\CuoiKyXML\\ThuCung\\ThuCung\\ThuCung\\BaoCaoDoanhThu.cs [Design]",
               "RelativeToolTip": "..\\..\\CuoiKyXML (4)\\CuoiKyXML\\CuoiKyXML\\CuoiKyXML\\ThuCung\\ThuCung\\ThuCung\\BaoCaoDoanhThu.cs [Design]",
@@ -370,7 +368,7 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ChuyenSangXML.cs [Design]",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\ChuyenSangXML.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\ChuyenSangXML.cs",
               "RelativeDocumentMoniker": "ThuCung\\ChuyenSangXML.cs",
               "ToolTip": "D:\\Vy\\XML\\CuoiKyXML (4)\\CuoiKyXML\\CuoiKyXML\\CuoiKyXML\\ThuCung\\ThuCung\\ThuCung\\ChuyenSangXML.cs [Design]",
               "RelativeToolTip": "..\\..\\CuoiKyXML (4)\\CuoiKyXML\\CuoiKyXML\\CuoiKyXML\\ThuCung\\ThuCung\\ThuCung\\ChuyenSangXML.cs [Design]",
@@ -381,9 +379,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "BaoCaoDoanhThu.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\BaoCaoDoanhThu.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\BaoCaoDoanhThu.cs",
               "RelativeDocumentMoniker": "ThuCung\\BaoCaoDoanhThu.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\BaoCaoDoanhThu.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\BaoCaoDoanhThu.cs",
               "RelativeToolTip": "ThuCung\\BaoCaoDoanhThu.cs",
               "ViewState": "AgIAADIBAAAAAAAAAAAtwEgBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -393,9 +391,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "XemHoaDon.Designer.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\XemHoaDon.Designer.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\XemHoaDon.Designer.cs",
               "RelativeDocumentMoniker": "ThuCung\\XemHoaDon.Designer.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\XemHoaDon.Designer.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\XemHoaDon.Designer.cs",
               "RelativeToolTip": "ThuCung\\XemHoaDon.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -405,9 +403,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "FromMain.Designer.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FromMain.Designer.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FromMain.Designer.cs",
               "RelativeDocumentMoniker": "ThuCung\\Forms\\FromMain.Designer.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FromMain.Designer.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FromMain.Designer.cs",
               "RelativeToolTip": "ThuCung\\Forms\\FromMain.Designer.cs",
               "ViewState": "AgIAAHEBAAAAAAAAAAAYwGsBAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -418,7 +416,7 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "BaoCaoThuCung.cs [Design]",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\BaoCaoThuCung.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\BaoCaoThuCung.cs",
               "RelativeDocumentMoniker": "ThuCung\\BaoCaoThuCung.cs",
               "ToolTip": "E:\\XML\\CuoiKyXML\\CuoiKyXML\\CuoiKyXML\\ThuCung\\ThuCung\\ThuCung\\BaoCaoThuCung.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -428,9 +426,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "XemHoaDon.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\XemHoaDon.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\XemHoaDon.cs",
               "RelativeDocumentMoniker": "ThuCung\\XemHoaDon.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\XemHoaDon.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\XemHoaDon.cs",
               "RelativeToolTip": "ThuCung\\XemHoaDon.cs",
               "ViewState": "AgIAAKUBAAAAAAAAAADwv70BAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -440,9 +438,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "XemXML.Designer.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\XemXML.Designer.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\XemXML.Designer.cs",
               "RelativeDocumentMoniker": "ThuCung\\XemXML.Designer.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\XemXML.Designer.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\XemXML.Designer.cs",
               "RelativeToolTip": "ThuCung\\XemXML.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -452,7 +450,7 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "XemHoaDon.cs [Design]",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\XemHoaDon.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\XemHoaDon.cs",
               "RelativeDocumentMoniker": "ThuCung\\XemHoaDon.cs",
               "ToolTip": "E:\\XML\\CuoiKyXML\\CuoiKyXML\\CuoiKyXML\\ThuCung\\ThuCung\\ThuCung\\XemHoaDon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -462,9 +460,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "BaoCaoDoanhThu.Designer.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\BaoCaoDoanhThu.Designer.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\BaoCaoDoanhThu.Designer.cs",
               "RelativeDocumentMoniker": "ThuCung\\BaoCaoDoanhThu.Designer.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\BaoCaoDoanhThu.Designer.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\BaoCaoDoanhThu.Designer.cs",
               "RelativeToolTip": "ThuCung\\BaoCaoDoanhThu.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -474,9 +472,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "BaoCaoThuCung.Designer.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\BaoCaoThuCung.Designer.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\BaoCaoThuCung.Designer.cs",
               "RelativeDocumentMoniker": "ThuCung\\BaoCaoThuCung.Designer.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\BaoCaoThuCung.Designer.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\BaoCaoThuCung.Designer.cs",
               "RelativeToolTip": "ThuCung\\BaoCaoThuCung.Designer.cs",
               "ViewState": "AgIAAPIAAAAAAAAAAADwv/4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -486,7 +484,7 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "XemXML.cs [Design]",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\XemXML.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\XemXML.cs",
               "RelativeDocumentMoniker": "ThuCung\\XemXML.cs",
               "ToolTip": "E:\\XML\\CuoiKyXML\\CuoiKyXML\\ThuCung\\ThuCung\\ThuCung\\XemXML.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -496,9 +494,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "BaoCaoThuCung.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\BaoCaoThuCung.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\BaoCaoThuCung.cs",
               "RelativeDocumentMoniker": "ThuCung\\BaoCaoThuCung.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\BaoCaoThuCung.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\BaoCaoThuCung.cs",
               "RelativeToolTip": "ThuCung\\BaoCaoThuCung.cs",
               "ViewState": "AgIAAPQBAAAAAAAAAAAYwAkCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -508,9 +506,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "NguoiDung.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Models\\NguoiDung.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Models\\NguoiDung.cs",
               "RelativeDocumentMoniker": "ThuCung\\Models\\NguoiDung.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Models\\NguoiDung.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Models\\NguoiDung.cs",
               "RelativeToolTip": "ThuCung\\Models\\NguoiDung.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -520,9 +518,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "FormAddEdit.Designer.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormAddEdit.Designer.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormAddEdit.Designer.cs",
               "RelativeDocumentMoniker": "ThuCung\\Forms\\FormAddEdit.Designer.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormAddEdit.Designer.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormAddEdit.Designer.cs",
               "RelativeToolTip": "ThuCung\\Forms\\FormAddEdit.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -532,9 +530,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Program.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Program.cs",
               "RelativeDocumentMoniker": "ThuCung\\Program.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Program.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Program.cs",
               "RelativeToolTip": "ThuCung\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -544,9 +542,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "FormLogin.Designer.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormLogin.Designer.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormLogin.Designer.cs",
               "RelativeDocumentMoniker": "ThuCung\\Forms\\FormLogin.Designer.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormLogin.Designer.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormLogin.Designer.cs",
               "RelativeToolTip": "ThuCung\\Forms\\FormLogin.Designer.cs",
               "ViewState": "AgIAABABAAAAAAAAAAAAABABAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -556,9 +554,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "ThuCung.xml",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\bin\\Debug\\data\\ThuCung.xml",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\bin\\Debug\\data\\ThuCung.xml",
               "RelativeDocumentMoniker": "ThuCung\\bin\\Debug\\data\\ThuCung.xml",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\bin\\Debug\\data\\ThuCung.xml",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\bin\\Debug\\data\\ThuCung.xml",
               "RelativeToolTip": "ThuCung\\bin\\Debug\\data\\ThuCung.xml",
               "ViewState": "AgIAADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
@@ -568,9 +566,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "ThuCung.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Models\\ThuCung.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Models\\ThuCung.cs",
               "RelativeDocumentMoniker": "ThuCung\\Models\\ThuCung.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Models\\ThuCung.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Models\\ThuCung.cs",
               "RelativeToolTip": "ThuCung\\Models\\ThuCung.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -580,9 +578,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "ChiTietHoaDon.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Models\\ChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Models\\ChiTietHoaDon.cs",
               "RelativeDocumentMoniker": "ThuCung\\Models\\ChiTietHoaDon.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Models\\ChiTietHoaDon.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Models\\ChiTietHoaDon.cs",
               "RelativeToolTip": "ThuCung\\Models\\ChiTietHoaDon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -592,9 +590,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "VaiTro.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Models\\VaiTro.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Models\\VaiTro.cs",
               "RelativeDocumentMoniker": "ThuCung\\Models\\VaiTro.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Models\\VaiTro.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Models\\VaiTro.cs",
               "RelativeToolTip": "ThuCung\\Models\\VaiTro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -604,9 +602,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "FormXML.Designer.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormXML.Designer.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormXML.Designer.cs",
               "RelativeDocumentMoniker": "ThuCung\\Forms\\FormXML.Designer.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Forms\\FormXML.Designer.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Forms\\FormXML.Designer.cs",
               "RelativeToolTip": "ThuCung\\Forms\\FormXML.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAANoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -616,9 +614,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "Loai.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Models\\Loai.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Models\\Loai.cs",
               "RelativeDocumentMoniker": "ThuCung\\Models\\Loai.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Models\\Loai.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Models\\Loai.cs",
               "RelativeToolTip": "ThuCung\\Models\\Loai.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -628,9 +626,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "HoaDon.cs",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Models\\HoaDon.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Models\\HoaDon.cs",
               "RelativeDocumentMoniker": "ThuCung\\Models\\HoaDon.cs",
-              "ToolTip": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Models\\HoaDon.cs",
+              "ToolTip": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Models\\HoaDon.cs",
               "RelativeToolTip": "ThuCung\\Models\\HoaDon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -640,7 +638,7 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Vy\\XML\\CuoiKy_CongNGheXML\\CongNgheXML_CuoiKy\\ThuCung\\Form1.cs",
+              "DocumentMoniker": "D:\\Vy\\XML\\BCCK_XML\\QuanLyThuCung\\ThuCung\\Form1.cs",
               "RelativeDocumentMoniker": "ThuCung\\Form1.cs",
               "ToolTip": "D:\\CuoiKyXML\\ThuCung\\ThuCung\\ThuCung\\Form1.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\CuoiKyXML\\ThuCung\\ThuCung\\ThuCung\\Form1.cs [Design]",
